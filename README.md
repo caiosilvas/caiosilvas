@@ -1,16 +1,15 @@
-### Hi there 👋
+### vindas ao meu perfil🥇
 
-<!--
-**caiosilvas/caiosilvas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é caio silva
 
-Here are some ideas to get you started:
+- estou estudando na [alura](https://www.alura.com.br)
+- estou me desenvolvendo na linguagem javascript
+- utilizo esse espaço para minha organização e compartilhamento dos meus dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### VOCÊ entrar em contato comigo📫
+
+caiosilvafla157@gmail.com
+
+@ca_ss208
+
+![_](https://media1.tenor.com/m/Bvv6nf5cFqIAAAAC/yo-no-vi-nada.gif)
